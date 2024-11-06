@@ -1,12 +1,4 @@
-![Embedded HTML within SVG](./introduction.svg)
-
-<h1 align="center">Hi 👋, I'm Marius Rousset</h1>
-<h3 align="center">
-  I like to code what I need, discover new algorithms and poke around what's hidden. 
-  I'm currently studying at Epitech Paris in 3rd year.
-</h3>
-
-- 🔭 I’m currently working on [Video-Code](https://github.com/anpawo/Video-Code)
+![Introduction](./introduction.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
