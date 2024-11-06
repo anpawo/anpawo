@@ -1,0 +1,31 @@
+<!-- introduction.svg -->
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <style>
+      /* GitHub Markdown-inspired styles */
+      .centered { 
+        text-align: center; 
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; 
+      }
+      .title { 
+        font-size: 32px; /* similar to GitHub's default for headers */
+        font-weight: 600; 
+        margin: 20px 0; 
+      }
+      .subtitle { 
+        font-size: 18px; /* similar to GitHub's paragraph text size */
+        color: #24292e;
+        line-height: 1.5;
+        font-weight: 400;
+        margin: 10px 0; 
+      }
+    </style>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="centered">
+      <h1 class="title">Hi 👋, I'm Marius Rousset</h1>
+      <h3 class="subtitle">
+        I like to code what I need, discover new algorithms, and poke around what's hidden. 
+        I'm currently studying at Epitech Paris in 3rd year.
+      </h3>
+    </div>
+  </foreignObject>
+</svg>
