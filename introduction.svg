@@ -1,5 +1,5 @@
 <!-- introduction.svg -->
-<svg width="100%" height="100%" viewBox="0 0 1920 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 1920 500" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <style>
       /* GitHub Markdown-inspired styles */
@@ -9,22 +9,20 @@
         color: white;
       }
       .title { 
-        font-size: 32px; /* similar to GitHub's default for headers */
-        font-weight: 600; 
+        font-size: 80px;
+        font-weight: 600*80/32; 
         margin: 20px 0; 
       }
       .subtitle { 
-        font-size: 18px; /* similar to GitHub's paragraph text size */
+        font-size: 48px; /* similar to GitHub's paragraph text size */
         line-height: 1.5;
-        font-weight: 400;
+        font-weight: 400*48/18;
         margin: 10px 0; 
       }
     </style>
     <div xmlns="http://www.w3.org/1999/xhtml" class="centered">
       <h1 class="title">Hi 👋, I'm Marius Rousset</h1>
-      <h3 class="subtitle">I like to code what I need,</h3>
-      <h3 class="subtitle">discover new algorithms,</h3>
-      <h3 class="subtitle">and poke around what's hidden.</h3>
+      <h3 class="subtitle">I like to code what I need, discover new algorithms, and poke around what's hidden.</h3>
       <h3 class="subtitle">I'm currently studying at Epitech Paris in 3rd year.</h3>
     </div>
   </foreignObject>
