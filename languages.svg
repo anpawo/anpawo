@@ -1,33 +1,39 @@
 <svg width="100%" height="100%" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <style>
-      /* GitHub Markdown-inspired styles */
-      .centered { 
-        text-align: center; 
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-        color: white;
-      }
-      .mid-title { 
-        font-size: 24px;
-        font-weight: 500; 
-        margin-top: 30px; 
-        margin-bottom: 0px; 
-      }
-      .simple-line { 
-        font-size: 18px;
-        line-height: 1.5;
-        font-weight: 400;
-        margin: 0px 0; 
-      }
-    </style>
-    <div xmlns="http://www.w3.org/1999/xhtml" class="centered">
-      <p class="mid-title">Mastered Languages</p>
-      
-      <!-- Correct method: Using SVG <image> with href -->
-      <img href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" x="10" y="10" width="50" height="50" />
-      
-      <p class="simple-line">I like to code what I need, discover new algorithms, and poke around what's hidden.</p>
-      <p class="simple-line">I'm currently studying at Epitech Paris in 3rd year.</p>
-    </div>
-  </foreignObject>
+    <foreignObject width="100%" height="100%">
+        <style>
+            /* GitHub Markdown-inspired styles */
+            .centered {
+                text-align: center;
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+                color: white;
+            }
+
+            .mid-title {
+                font-size: 24px;
+                font-weight: 500;
+                margin-top: 30px;
+                margin-bottom: 0px;
+            }
+
+            .simple-line {
+                font-size: 18px;
+                line-height: 1.5;
+                font-weight: 400;
+                margin: 0px 0;
+            }
+        </style>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="centered">
+            <p class="mid-title">Mastered Languages</p>
+
+            <!-- <img  src="/media/cc0-images/grapefruit-slice-332-332.jpg"
+                alt="Grapefruit slice atop a pile of other slices" />
+            <!-- Correct method: Using SVG <image> with href -->
+            <!-- <img href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" x="10" y="10"
+                width="50" height="50" /> -->
+
+            <p class="simple-line">I like to code what I need, discover new algorithms, and poke around what's hidden.
+            </p>
+            <p class="simple-line">I'm currently studying at Epitech Paris in 3rd year.</p>
+        </div>
+    </foreignObject>
 </svg>
