@@ -1,11 +1,12 @@
 <!-- introduction.svg -->
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 1920 300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <style>
       /* GitHub Markdown-inspired styles */
       .centered { 
         text-align: center; 
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; 
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: white;
       }
       .title { 
         font-size: 32px; /* similar to GitHub's default for headers */
@@ -14,7 +15,6 @@
       }
       .subtitle { 
         font-size: 18px; /* similar to GitHub's paragraph text size */
-        color: #24292e;
         line-height: 1.5;
         font-weight: 400;
         margin: 10px 0; 
@@ -22,10 +22,10 @@
     </style>
     <div xmlns="http://www.w3.org/1999/xhtml" class="centered">
       <h1 class="title">Hi 👋, I'm Marius Rousset</h1>
-      <h3 class="subtitle">
-        I like to code what I need, discover new algorithms, and poke around what's hidden. 
-        I'm currently studying at Epitech Paris in 3rd year.
-      </h3>
+      <h3 class="subtitle">I like to code what I need,</h3>
+      <h3 class="subtitle">discover new algorithms,</h3>
+      <h3 class="subtitle">and poke around what's hidden.</h3>
+      <h3 class="subtitle">I'm currently studying at Epitech Paris in 3rd year.</h3>
     </div>
   </foreignObject>
 </svg>
