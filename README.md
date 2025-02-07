@@ -13,7 +13,7 @@
 
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="c" height="28"/></code>
 
-  <h3 class="mid-title">Currently learning and pushing to mastery</h3>
+  <h3 class="mid-title">Currently learning</h3>
   <code><img src="./icons/assembly.svg" alt="assembly" height="30"/></code>
 
   <h3 class="mid-title">Other Languages and Tools</h3>
