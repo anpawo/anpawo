@@ -1,6 +1,6 @@
 <div align="center">
   <h1 class="title">Hi 👋, I'm Marius Rousset</h1>
-  <h4 class="simple-line">I like to code what I need, discover new algorithms, and poke around what's hidden.</h4>
+  <h4 class="simple-line">I like to code and optimize what I code.
   <h4 class="simple-line">I'm currently studying at Epitech Paris in 3rd year.</h4>
 
   <br>
