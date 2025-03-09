@@ -5,28 +5,15 @@
 
   <br>
 
-  <h3 class="mid-title">friends         |         others</h3>
+  <h3 class="mid-title">I like</h3>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="30"/></code>
   <code><img src="./icons/assembly.svg" alt="assembly" height="30"/></code>
+  
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="c" height="28"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="c" height="30"/></code>
-         
-  <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="bash" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" height="30"/></code>
-
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="c" height="40"/></code>
 
   <p><br></p>
   <img class="space-top" src="https://github-readme-stats.vercel.app/api/top-langs?username=anpawo&show_icons=true&locale=en&layout=compact&hide=html" />
