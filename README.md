@@ -6,7 +6,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="40"/></code>
-  <code><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" height="40"/></code>
+  <code><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" height="40" width="40"/></code>
   
   <p><br></p>
   <img class="space-top" src="https://github-readme-stats.vercel.app/api/top-langs?username=anpawo&show_icons=true&locale=en&layout=compact&hide=html" />
