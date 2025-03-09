@@ -11,18 +11,18 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="30"/></code>
   <code><img src="./icons/assembly.svg" alt="assembly" height="30"/></code>
-   
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="c" height="28"/></code>
+         
+  <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="bash" height="30"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="c" height="30"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="c" height="30"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" height="30"/></code>
 
   <h3 class="mid-title">Currently learning</h3>
 
   <h3 class="mid-title">Other Languages and Tools</h3>
   
   <!-- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="c" height="30"/></code> -->
-  <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="bash" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="c" height="30"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" height="30"/></code>
   
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="c" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="c" height="30"/></code>
