@@ -5,7 +5,7 @@
 
   <br>
 
-  <h3 class="mid-title">friends              |              others</h3>
+  <h3 class="mid-title">friends         |         others</h3>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="30"/></code>
