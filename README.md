@@ -1,6 +1,6 @@
 # Hi, I'm Marius Rousset
 - I'm currently studying at Epitech Paris in 3rd year.
-- I like to code and optimize what I code.
+- I like to write optimized code, templated stuff and to automate repetitive tasks.
 
 
 ## I'm Currently Working On
@@ -9,6 +9,7 @@
   - The goal is to transform code into videos.  
 - APM's website & more  
   - The summer camp of my uncle.
+
 
 ## Mastered Languages
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
