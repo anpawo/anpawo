@@ -13,7 +13,7 @@
 - [Mary](https://github.com/anpawo/Glados-Mary) (2024)
   - A programming language made in Haskell.
   - Standard Lib includes I/O, random, structures, lambdas (closure) and atoms.
-- My-Lib-C (2022-2023)
+- [My-Lib-C](https://github.com/anpawo/C-Lib) (2022-2023)
   - A library made in C with standard functions.
   - The style is Object Oriented (don't ask why).
 - Notif-Pogo (2022-2023)
