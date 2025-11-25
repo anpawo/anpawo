@@ -25,6 +25,3 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="40"/></code>
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anpawo&show_icons=true&locale=en&layout=compact&hide=html" />
