@@ -1,5 +1,5 @@
 # Hi, I'm Marius Rousset
-- I'm currently studying at Epitech Paris in 3rd year.
+- I'm currently studying at Epitech Paris in 4th year.
 - I like to write optimized code, templated stuff and to automate repetitive tasks.
 
 
@@ -7,8 +7,6 @@
 - [Video-Code](https://github.com/anpawo/Video-Code) (2024-Now)
   - A video editing software.  
   - The goal is to transform code into videos.  
-- APM's website & more  
-  - The summer camp of my uncle.
 ## What I've done so far
 - [Mary](https://github.com/anpawo/Glados-Mary) (2024)
   - A programming language made in Haskell.
@@ -18,7 +16,7 @@
   - The style is Object Oriented (don't ask why).
 - Notif-Pogo (2022-2023)
   - A bot discord that scrapes Pokemon Go Spawns all around the world.
-  - Wide variety of filters.
+  - Very generic, could handle a wide variety of filters.
 
 ## Mastered Languages
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
