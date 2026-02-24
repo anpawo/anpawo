@@ -7,7 +7,7 @@
 - [Video-Code](https://github.com/anpawo/Video-Code) (2024-Now)
   - A video editing software.  
   - The goal is to transform code into videos.
-  - While keeping an graphical interface for non-coders.
+  - A graphical interface will be auto-generated from the codebase for non-coders.
   - You would choose your side and benefit from the other one.
 ## What I've done so far
 - [Mary](https://github.com/anpawo/Glados-Mary) (2024)
