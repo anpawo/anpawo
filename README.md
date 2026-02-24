@@ -6,7 +6,9 @@
 ## I'm Currently Working On
 - [Video-Code](https://github.com/anpawo/Video-Code) (2024-Now)
   - A video editing software.  
-  - The goal is to transform code into videos.  
+  - The goal is to transform code into videos.
+  - While keeping an graphical interface for non-coders.
+  - You would choose your side and benefit from the other one.
 ## What I've done so far
 - [Mary](https://github.com/anpawo/Glados-Mary) (2024)
   - A programming language made in Haskell.
