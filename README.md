@@ -15,7 +15,7 @@
   - Standard Lib includes I/O, random, structures, lambdas (closure) and atoms.
 - [My-Lib-C](https://github.com/anpawo/C-Lib) (2022-2023)
   - A library made in C with standard functions.
-  - The style is Object Oriented (don't ask why).
+  - The style is Object Oriented.
 - Notif-Pogo (2022-2023)
   - A bot discord that scrapes Pokemon Go Spawns all around the world.
   - Very generic, could handle a wide variety of filters.
