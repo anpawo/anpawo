@@ -31,5 +31,6 @@ ps:
 I can code in any given programming language, I've tried so many different ones that I know how it goes.  
 I just mentionned the ones I'm the most confident with.
 
-## English Level : C1 tickling C2
-## French Level : Native
+## Spoken Languages
+- English: C1 - C2
+- French: Native
