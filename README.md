@@ -20,8 +20,16 @@
   - A bot discord that scrapes Pokemon Go Spawns all around the world.
   - Very generic, could handle a wide variety of filters.
 
-## Mastered Languages
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
+## Mastered Programming Languages
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="40"/></code>
+
+
+ps:  
+I can code in any given programming language, I've tried so many different ones that I know how it goes.  
+I just mentionned the ones I'm the most confident with.
+
+## English Level : C1 tickling C2
+## French Level : Native
