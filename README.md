@@ -7,8 +7,8 @@
 - [Video-Code](https://github.com/anpawo/Video-Code) (2024-Now)
   - A video editing software.  
   - The goal is to transform code into videos.
-  - A graphical interface will be auto-generated from the codebase for non-coders.
-  - You would choose your side and benefit from the other one.
+  - A no-code GUI will be auto-generated from the codebase for non-coders.
+  - You will also be able to vibe edit your video and more...
 ## What I've done so far
 - [Mary](https://github.com/anpawo/Glados-Mary) (2024)
   - A programming language made in Haskell.
