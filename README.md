@@ -34,3 +34,6 @@ I just mentionned the ones I'm the most confident with.
 ## Spoken Languages
 - English: C2
 - French: Native
+
+## How to reach me
+- [LinkedIn](https://www.linkedin.com/in/mariusrousset/)
