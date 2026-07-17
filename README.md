@@ -32,5 +32,5 @@ I can code in any given programming language, I've tried so many different ones 
 I just mentionned the ones I'm the most confident with.
 
 ## Spoken Languages
-- English: C1 - C2
+- English: C2
 - French: Native
