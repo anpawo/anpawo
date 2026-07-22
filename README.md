@@ -1,5 +1,5 @@
 # Hi, I'm Marius Rousset
-- I'm currently studying at Epitech Paris in 4th year.
+- I'm currently studying at Epitech Paris in 5th year.
 - I like to write optimized code, templated stuff and to automate repetitive tasks.
 
 
