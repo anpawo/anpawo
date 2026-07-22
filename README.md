@@ -8,7 +8,7 @@
   - A video editing software.  
   - The goal is to transform code into videos.
   - A no-code GUI will be auto-generated from the codebase for non-coders.
-  - You will also be able to vibe edit your video and more...
+  - End goal is to be able to vibe code/edit your videos.
 ## What I've done so far
 - [Mary](https://github.com/anpawo/Glados-Mary) (2024)
   - A programming language made in Haskell.
