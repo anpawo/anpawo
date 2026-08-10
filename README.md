@@ -9,6 +9,14 @@
   - The goal is to transform code into videos.
   - A no-code GUI will be auto-generated from the codebase for non-coders.
   - End goal is to be able to vibe code/edit your videos.
+- Fleet (2026-Now)
+  - A macOS background app that shows every Claude Code session running on the machine.
+  - Go idle and a panel appears: one tile per session, colour-coded for done / working / waiting on you.
+  - Click a tile and the terminal tab running that session comes to the front.
+- Mail (2026-Now)
+  - A Gmail triage bot: scores the inbox 0-3, trashes the noise, pushes what needs a reply.
+  - One batched LLM call per account, run from GitHub Actions — no machine of mine has to be awake.
+  - The model only scores; the deletion rules live in code, so a bad score can't lose real mail.
 ## What I've done so far
 - [Mary](https://github.com/anpawo/Glados-Mary) (2024)
   - A programming language made in Haskell.
