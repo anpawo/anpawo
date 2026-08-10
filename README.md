@@ -8,7 +8,7 @@
   - A macOS background app that shows every Claude Code session running on the machine.
   - Go idle and a panel appears: one tile per session, colour-coded for done / working / waiting on you.
   - Click a tile and the terminal tab running that session comes to the front.
-- Sift (2026-Now)
+- Auto Mail (2026-Now)
   - A Gmail triage bot. An AI reads the inbox, throws out the noise, and keeps what needs you.
   - What's left becomes a deck of cards in an Android app — swipe like Tinder to reply, snooze, or ban a sender for good.
 - [Video-Code](https://github.com/anpawo/Video-Code) (2024-Now)
