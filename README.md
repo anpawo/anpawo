@@ -1,8 +1,8 @@
 # Hi, I'm Marius Rousset
-- I'm currently studying at Epitech Paris in 5th year.
-- I like to write optimized code, template metaprogramming and to automate repetitive tasks.
-- These days I mostly command LLMs around and try to get the best out of them — dispatching them, wiring them together, and keeping the decisions they aren't reliable enough to make in ordinary code. The first two projects below are both that.
-- Available from Fall 2026, looking for a role where that saves a company real time: configuring and integrating models, or writing the software that makes an existing process faster. Based between Paris and Aix-en-Provence, happy to relocate anywhere.
+- I'm in my 5th year at Epitech Paris.
+- I write optimized code, template metaprogramming, and automate whatever repeats.
+- These days I mostly command LLMs around and try to get the best out of them — the first two projects below are that.
+- Available from Fall 2026 for LLM integration and automation work. Paris / Aix-en-Provence, happy to relocate anywhere.
 
 
 ## I'm Currently Working On
