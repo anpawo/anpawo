@@ -39,7 +39,7 @@ I can code in any given programming language, I've tried so many different ones 
 I just mentionned the ones I'm the most confident with.
 
 ## Spoken Languages
-- English: C2
+- English: C1-C2
 - French: Native
 
 ## How to reach me
