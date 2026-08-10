@@ -1,7 +1,8 @@
 # Hi, I'm Marius Rousset
 - I'm currently studying at Epitech Paris in 5th year.
-- I like to write optimized code, templated stuff and to automate repetitive tasks.
-- These days I mostly command LLMs around, and try to get the best out of them.
+- I like to write optimized code, template metaprogramming and to automate repetitive tasks.
+- These days I mostly command LLMs around and try to get the best out of them — dispatching them, wiring them together, and keeping the decisions they aren't reliable enough to make in ordinary code. The first two projects below are both that.
+- Available from Fall 2026, looking for a role where that saves a company real time: configuring and integrating models, or writing the software that makes an existing process faster. Based between Paris and Aix-en-Provence, happy to relocate anywhere.
 
 
 ## I'm Currently Working On
@@ -33,6 +34,11 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/></code>
+
+## Also Used
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" height="40"/></code>
 
 
 ps:  
