@@ -39,7 +39,7 @@
 ## Also Used
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" height="40"/></code>
+<code><img src="https://cdn.simpleicons.org/rust/CE422B/DEA584" alt="rust" height="40"/></code>
 
 
 ps:  
