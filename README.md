@@ -30,10 +30,10 @@
   - Very generic, could handle a wide variety of filters.
 
 ## Mastered Programming Languages
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/></code>
 
 ## Also Used
@@ -44,7 +44,7 @@
 
 ps:  
 I can code in any given programming language, I've tried so many different ones that I know how it goes.  
-I just mentionned the ones I'm the most confident with.
+I just mentioned the ones I'm the most confident with.
 
 ## Spoken Languages
 - English: C1-C2
