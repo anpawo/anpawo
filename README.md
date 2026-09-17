@@ -16,6 +16,7 @@
 - [Video-Code](https://github.com/anpawo/Video-Code) (2024-Now)
   - A video editing software.  
   - The goal is to transform code into videos.
+  - Scenes are written in Python, rendered by a C++/Vulkan engine.
   - A no-code GUI will be auto-generated from the codebase for non-coders.
   - End goal is to be able to vibe code/edit your videos.
 ## What I've done so far
