@@ -20,7 +20,7 @@
   - A no-code GUI will be auto-generated from the codebase for non-coders.
   - End goal is to be able to vibe code/edit your videos.
 ## What I've done so far
-- [Mary](https://github.com/anpawo/Glados-Mary) (2024)
+- [Glados](https://github.com/anpawo/glados) (2024)
   - A programming language made in Haskell.
   - Standard Lib includes I/O, random, structures, lambdas (closure) and atoms.
 - [My-Lib-C](https://github.com/anpawo/C-Lib) (2022-2023)
