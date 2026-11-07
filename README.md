@@ -26,7 +26,7 @@ Videos written as code: shapes declared, placed and animated in Python, rendered
 C++ engine on Vulkan and Qt6, encoded with FFmpeg  
 Made 2.1× faster: 17 → 9.5 ms per 1080p frame, peak memory down 33%  
 Epitech end-of-studies project
-- The [Glados programming language](https://github.com/anpawo/glados) (2024-2025)  
+- The [Glados](https://github.com/anpawo/glados) (2024-2025)  
 An imperative, statically-typed language: tokenizer, parser, optimization passes, bytecode compiler and a stack-based VM with tail calls  
 In Haskell, in a team of 5  
 Standard library with I/O, random, structures, closures and atoms
