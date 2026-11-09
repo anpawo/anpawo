@@ -11,7 +11,7 @@ In Zig, with CSS animation events in review
 
 ### Relevant Projects
 
-- [Fleet](https://github.com/anpawo/fleet) (2026-now)  
+- [Fleet](https://github.com/anpawo/my-apps/tree/main/fleet) (2026-now)  
 A macOS background app that shows every Claude Code session on the machine (done, working, or waiting on you) the moment you go idle; a click brings its terminal tab back  
 In Swift and AppKit
 - [my-apps](https://github.com/anpawo/my-apps) (2026-now)  
