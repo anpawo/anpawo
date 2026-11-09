@@ -11,12 +11,11 @@ In Zig, with CSS animation events in review
 
 ### Relevant Projects
 
-- [Fleet](https://github.com/anpawo/my-apps/tree/main/fleet) (2026-now)  
-A macOS background app that shows every Claude Code session on the machine (done, working, or waiting on you) the moment you go idle; a click brings its terminal tab back  
-In Swift and AppKit
 - [my-apps](https://github.com/anpawo/my-apps) (2026-now)  
-Little macOS apps made for my own needs, each one running on my Mac today  
-[Vibe Code X](https://github.com/anpawo/my-apps/tree/main/vcx), a native window for Claude Code, Codex and Qwen; [mac-guard](https://github.com/anpawo/my-apps/tree/main/mac-guard), which pauses what is about to freeze the Mac; an ⌘Tab switcher, a launcher, an autocorrect and more
+Little macOS apps made for my own needs (an ⌘Tab switcher, a launcher, an autocorrect and more), in Swift and AppKit
+  - [Fleet](https://github.com/anpawo/my-apps/tree/main/fleet): shows every Claude Code session on the machine (done, working, or waiting on you) the moment you go idle; a click brings its terminal tab back
+  - [Vibe Code X](https://github.com/anpawo/my-apps/tree/main/vcx): a native window per Claude Code, Codex or Qwen session, running the agent's own CLI; its actions fold into one block and its questions are answered from the input box
+  - [mac-guard](https://github.com/anpawo/my-apps/tree/main/mac-guard): watches memory, CPU and hung apps, and pauses the background work about to freeze the Mac until it keeps up again
 - Auto Mail (2026-now)  
 A Gmail triage bot: one batched LLM call scores every mail, and plain code, not the model, decides what may be deleted  
 What's left becomes a deck of cards in an Android app: swipe to reply, snooze, or ban a sender for good  
