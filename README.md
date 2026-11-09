@@ -7,7 +7,7 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
 - [Lightpanda](https://github.com/lightpanda-io/browser), the headless browser built for AI agents ([All contributions](https://github.com/lightpanda-io/browser/pulls?q=is%3Apr+author%3Aanpawo)) (2026)  
 Made its agent tools easier to trust: `click` now says when its target is disabled or hidden, and `tree` can return only what changed since the last full tree (37 to 377 bytes instead of 1.8 to 80 KB on the pages measured)  
 In Zig, with CSS animation events in review
-- [One contribution](https://github.com/vectordotdev/vector/pull/27036) to [Vector](https://github.com/vectordotdev/vector), Datadog's observability data pipeline, in Rust
+- [One contribution](https://github.com/vectordotdev/vector/pull/27036) to [Vector](https://github.com/vectordotdev/vector), [Datadog](https://github.com/DataDog)'s observability data pipeline, in Rust
 
 ### Relevant Projects
 
