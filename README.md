@@ -8,7 +8,9 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
   - [#4494](https://github.com/lightpanda-io/browser/pull/4494): `click` says when its target is disabled or hidden
   - [#4495](https://github.com/lightpanda-io/browser/pull/4495): `tree` can return only what changed since the last full tree (37 to 377 bytes instead of 1.8 to 80 KB on the pages measured)
   - [#4496](https://github.com/lightpanda-io/browser/pull/4496): fires CSS animation events, so pages that wait on them no longer hang
-- [Two contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo+is%3Amerged) to [Vector](https://github.com/vectordotdev/vector), [Datadog](https://github.com/DataDog)'s observability data pipeline, in Rust
+- [Vector](https://github.com/vectordotdev/vector), [Datadog](https://github.com/DataDog)'s observability data pipeline, in Rust ([All contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo)) (2026)
+  - [#27036](https://github.com/vectordotdev/vector/pull/27036): the `internal_logs` source names its fields with constants
+  - [#26991](https://github.com/vectordotdev/vector/pull/26991): the `redis` source names its fields with constants
 
 ### Relevant Projects
 
