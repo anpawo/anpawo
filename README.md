@@ -4,10 +4,10 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
 
 ### Relevant Contributions
 
-- [Lightpanda](https://github.com/lightpanda-io/browser), the headless browser built for AI agents ([All contributions](https://github.com/lightpanda-io/browser/pulls?q=is%3Apr+author%3Aanpawo)) (2026)  
-Made its agent tools easier to trust: `click` now says when its target is disabled or hidden, and `tree` can return only what changed since the last full tree (37 to 377 bytes instead of 1.8 to 80 KB on the pages measured)  
-Also fires CSS animation events (`animationstart`, `animationend`, `animationcancel`), so pages that wait on them no longer hang  
-In Zig
+- [Lightpanda](https://github.com/lightpanda-io/browser), the headless browser built for AI agents, in Zig ([All contributions](https://github.com/lightpanda-io/browser/pulls?q=is%3Apr+author%3Aanpawo)) (2026)
+  - [#4494](https://github.com/lightpanda-io/browser/pull/4494): `click` says when its target is disabled or hidden
+  - [#4495](https://github.com/lightpanda-io/browser/pull/4495): `tree` can return only what changed since the last full tree (37 to 377 bytes instead of 1.8 to 80 KB on the pages measured)
+  - [#4496](https://github.com/lightpanda-io/browser/pull/4496): fires CSS animation events, so pages that wait on them no longer hang
 - [Two contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo+is%3Amerged) to [Vector](https://github.com/vectordotdev/vector), [Datadog](https://github.com/DataDog)'s observability data pipeline, in Rust
 
 ### Relevant Projects
