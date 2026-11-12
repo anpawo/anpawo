@@ -11,6 +11,9 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
 - [Vector](https://github.com/vectordotdev/vector), [Datadog](https://github.com/DataDog)'s observability data pipeline, in Rust ([All contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo)) (2026)
   - [#27036](https://github.com/vectordotdev/vector/pull/27036): the `internal_logs` source names its fields with constants
   - [#26991](https://github.com/vectordotdev/vector/pull/26991): the `redis` source names its fields with constants
+  - [#27114](https://github.com/vectordotdev/vector/pull/27114): the `exec` source names its fields with constants
+- [Toto](https://github.com/DataDog/toto), [Datadog](https://github.com/DataDog)'s time-series foundation model for observability, in Python (2026)
+  - [#192](https://github.com/DataDog/toto/pull/192) (in review): Toto 2.0 runs on Apple MPS, where it gave all-NaN forecasts on large series; forecasts now match CPU
 
 ### Relevant Projects
 
@@ -19,6 +22,9 @@ Little macOS apps made for my own needs (an ⌘Tab switcher, a launcher, an auto
   - [Fleet](https://github.com/anpawo/my-apps/tree/main/fleet): shows every Claude Code session on the machine (done, working, or waiting on you) the moment you go idle; a click brings its terminal tab back
   - [Vibe Code X](https://github.com/anpawo/my-apps/tree/main/vcx): a native window per Claude Code, Codex or Qwen session, running the agent's own CLI; its actions fold into one block and its questions are answered from the input box
   - [mac-guard](https://github.com/anpawo/my-apps/tree/main/mac-guard): watches memory, CPU and hung apps, and pauses the background work about to freeze the Mac until it keeps up again
+- [claude-code-datadog](https://github.com/anpawo/claude-code-datadog) (2026)  
+Every Claude Code session on my Mac traced into Datadog LLM Observability through an OpenTelemetry Collector: each turn, model call and tool call with its tokens, duration and cost  
+The collector fixes Claude Code's spans so Datadog files them as LLM calls with token counts
 - Auto Mail (2026-now)  
 A Gmail triage bot: one batched LLM call scores every mail, and plain code, not the model, decides what may be deleted  
 What's left becomes a deck of cards in an Android app: swipe to reply, snooze, or ban a sender for good  
