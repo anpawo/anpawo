@@ -13,6 +13,7 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
   - [#27142](https://github.com/vectordotdev/vector/pull/27142): `log_to_metric` accepts integer values (`42`, not only `42.0`) in `all_metrics` mode instead of dropping the event
   - [#27148](https://github.com/vectordotdev/vector/pull/27148): a VRL `abort "reason"` in `remap` logs its reason, which was lost unless dropped events were rerouted
   - [#27147](https://github.com/vectordotdev/vector/pull/27147): the `http_client` source asks for `application/json` when it decodes JSON, instead of `text/plain`
+  - [#27265](https://github.com/vectordotdev/vector/pull/27265): the `nats` source no longer claims end-to-end acknowledgements, so Vector warns about possible silent data loss when a sink requires them
 - [Datadog](https://github.com/DataDog)'s time-series foundation model for observability: [Toto](https://github.com/DataDog/toto), in Python (2026)
   - [#192](https://github.com/DataDog/toto/pull/192) (in review): Toto 2.0 runs on Apple MPS, where it gave all-NaN forecasts on large series; forecasts now match CPU
 - [Datadog](https://github.com/DataDog) on my own machine: [claude-code-datadog](https://github.com/anpawo/claude-code-datadog), in YAML and shell (2026)
