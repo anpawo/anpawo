@@ -24,7 +24,7 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
   - Every Claude Code session on my Mac traced into LLM Observability through an OpenTelemetry Collector: each turn, model call and tool call with its tokens, duration and cost
   - The collector fixes Claude Code's spans so Datadog files them as LLM calls with token counts
 - [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve), with Codex as the model, to find faster versions of hot paths whose output stays byte-identical (2026)
-  - On my apps (not merged yet): Fleet's transcript scan about 200× faster, Vibe Code X's rule recall 23×
+  - Fleet's transcript scan about 200× faster, Vibe Code X's rule recall 23×
 
 ### Relevant Projects
 
