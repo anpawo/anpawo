@@ -8,17 +8,23 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
   - [#4494](https://github.com/lightpanda-io/browser/pull/4494): `click` says when its target is disabled or hidden
   - [#4495](https://github.com/lightpanda-io/browser/pull/4495): `tree` can return only what changed since the last full tree (37 to 377 bytes instead of 1.8 to 80 KB on the pages measured)
   - [#4496](https://github.com/lightpanda-io/browser/pull/4496): fires CSS animation events, so pages that wait on them no longer hang
-- [Datadog](https://github.com/DataDog)'s observability data pipeline: [Vector](https://github.com/vectordotdev/vector), in Rust ([All contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo)) (2026)
-  - [#27146](https://github.com/vectordotdev/vector/pull/27146): `vector tap` piped into a reader that exits early (`| head`) ends cleanly instead of panicking on the broken pipe
-  - [#27142](https://github.com/vectordotdev/vector/pull/27142): `log_to_metric` accepts integer values (`42`, not only `42.0`) in `all_metrics` mode instead of dropping the event
-  - [#27148](https://github.com/vectordotdev/vector/pull/27148): a VRL `abort "reason"` in `remap` logs its reason, which was lost unless dropped events were rerouted
-  - [#27147](https://github.com/vectordotdev/vector/pull/27147): the `http_client` source asks for `application/json` when it decodes JSON, instead of `text/plain`
-  - [#27265](https://github.com/vectordotdev/vector/pull/27265): the `nats` source no longer claims end-to-end acknowledgements, so Vector warns about possible silent data loss when a sink requires them
-- [Datadog](https://github.com/DataDog)'s time-series foundation model for observability: [Toto](https://github.com/DataDog/toto), in Python (2026)
-  - [#192](https://github.com/DataDog/toto/pull/192) (in review): Toto 2.0 runs on Apple MPS, where it gave all-NaN forecasts on large series; forecasts now match CPU
+- [Datadog](https://github.com/DataDog) (2026)
+  - [Vector](https://github.com/vectordotdev/vector), its observability data pipeline, in Rust ([All contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo))
+    - [#27146](https://github.com/vectordotdev/vector/pull/27146): `vector tap` piped into a reader that exits early (`| head`) ends cleanly instead of panicking on the broken pipe
+    - [#27142](https://github.com/vectordotdev/vector/pull/27142): `log_to_metric` accepts integer values (`42`, not only `42.0`) in `all_metrics` mode instead of dropping the event
+    - [#27148](https://github.com/vectordotdev/vector/pull/27148): a VRL `abort "reason"` in `remap` logs its reason, which was lost unless dropped events were rerouted
+    - [#27147](https://github.com/vectordotdev/vector/pull/27147): the `http_client` source asks for `application/json` when it decodes JSON, instead of `text/plain`
+    - [#27265](https://github.com/vectordotdev/vector/pull/27265): the `nats` source no longer claims end-to-end acknowledgements, so Vector warns about possible silent data loss when a sink requires them
+  - [Toto](https://github.com/DataDog/toto), its time-series foundation model for observability, in Python
+    - [#192](https://github.com/DataDog/toto/pull/192) (in review): Toto 2.0 runs on Apple MPS, where it gave all-NaN forecasts on large series; forecasts now match CPU
+
+### Some Tools I Use
+
 - [Datadog](https://github.com/DataDog) on my own machine: [claude-code-datadog](https://github.com/anpawo/claude-code-datadog), in YAML and shell (2026)
   - Every Claude Code session on my Mac traced into LLM Observability through an OpenTelemetry Collector: each turn, model call and tool call with its tokens, duration and cost
   - The collector fixes Claude Code's spans so Datadog files them as LLM calls with token counts
+- [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve), with Codex as the model, to find faster versions of hot paths whose output stays byte-identical (2026)
+  - On my apps (not merged yet): Fleet's transcript scan about 200× faster, Vibe Code X's rule recall 23×
 
 ### Relevant Projects
 
@@ -27,7 +33,6 @@ Little macOS apps made for my own needs (an ⌘Tab switcher, a launcher, an auto
   - [Fleet](https://github.com/anpawo/my-apps/tree/main/fleet): shows every Claude Code session on the machine (done, working, or waiting on you) the moment you go idle; a click brings its terminal tab back
   - [Vibe Code X](https://github.com/anpawo/my-apps/tree/main/vcx): a native window per Claude Code, Codex or Qwen session, running the agent's own CLI; its actions fold into one block and its questions are answered from the input box
   - [mac-guard](https://github.com/anpawo/my-apps/tree/main/mac-guard): watches memory, CPU and hung apps, and pauses the background work about to freeze the Mac until it keeps up again
-  - [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve), with Codex as the model, found faster versions of two hot paths whose output stays byte-identical (not merged yet): Fleet's transcript scan about 200× faster, Vibe Code X's rule recall 23×
 - [Qwen abliteration repair](https://github.com/anpawo/qwen-abliteration-repair) (2026)  
 An abliterated (uncensored) Qwen3.5-9B given its reasoning back: the weights abliteration changed in layers 8-15 copied back from the original, then requantized from f16 with an importance matrix  
 65/74 on a test battery and 68/74 on a held-out set (original model: 57/74), 87.3% on a MATH-500 sample, 0 of 6 harmful prompts refused, in 5.6 GB on a 4 GB GPU  
