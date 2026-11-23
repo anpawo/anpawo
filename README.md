@@ -9,8 +9,7 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
   - [#4495](https://github.com/lightpanda-io/browser/pull/4495): `tree` can return only what changed since the last full tree (37 to 377 bytes instead of 1.8 to 80 KB on the pages measured)
   - [#4496](https://github.com/lightpanda-io/browser/pull/4496): fires CSS animation events, so pages that wait on them no longer hang
 - [Datadog](https://github.com/DataDog) (2026)
-  - [Vector](https://github.com/vectordotdev/vector), its observability data pipeline, in Rust ([All contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo))
-    <details><summary>5 merged PRs</summary>
+  - <details><summary><a href="https://github.com/vectordotdev/vector">Vector</a>, its observability data pipeline, in Rust (<a href="https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo">All contributions</a>): 5 merged PRs</summary>
 
     - [#27146](https://github.com/vectordotdev/vector/pull/27146): `vector tap` piped into a reader that exits early (`| head`) ends cleanly instead of panicking on the broken pipe
     - [#27142](https://github.com/vectordotdev/vector/pull/27142): `log_to_metric` accepts integer values (`42`, not only `42.0`) in `all_metrics` mode instead of dropping the event
@@ -20,8 +19,7 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
 
     </details>
 
-  - [Toto](https://github.com/DataDog/toto), its time-series foundation model for observability, in Python
-    <details><summary>1 PR in review</summary>
+  - <details><summary><a href="https://github.com/DataDog/toto">Toto</a>, its time-series foundation model for observability, in Python: 1 PR in review</summary>
 
     - [#192](https://github.com/DataDog/toto/pull/192) (in review): Toto 2.0 runs on Apple MPS, where it gave all-NaN forecasts on large series; forecasts now match CPU
 
