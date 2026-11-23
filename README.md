@@ -10,13 +10,23 @@ Fifth-year student at Epitech Paris, back from an exchange year at CSULB. I buil
   - [#4496](https://github.com/lightpanda-io/browser/pull/4496): fires CSS animation events, so pages that wait on them no longer hang
 - [Datadog](https://github.com/DataDog) (2026)
   - [Vector](https://github.com/vectordotdev/vector), its observability data pipeline, in Rust ([All contributions](https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aanpawo))
+    <details><summary>5 merged PRs</summary>
+
     - [#27146](https://github.com/vectordotdev/vector/pull/27146): `vector tap` piped into a reader that exits early (`| head`) ends cleanly instead of panicking on the broken pipe
     - [#27142](https://github.com/vectordotdev/vector/pull/27142): `log_to_metric` accepts integer values (`42`, not only `42.0`) in `all_metrics` mode instead of dropping the event
     - [#27148](https://github.com/vectordotdev/vector/pull/27148): a VRL `abort "reason"` in `remap` logs its reason, which was lost unless dropped events were rerouted
     - [#27147](https://github.com/vectordotdev/vector/pull/27147): the `http_client` source asks for `application/json` when it decodes JSON, instead of `text/plain`
     - [#27265](https://github.com/vectordotdev/vector/pull/27265): the `nats` source no longer claims end-to-end acknowledgements, so Vector warns about possible silent data loss when a sink requires them
+
+    </details>
+
   - [Toto](https://github.com/DataDog/toto), its time-series foundation model for observability, in Python
+    <details><summary>1 PR in review</summary>
+
     - [#192](https://github.com/DataDog/toto/pull/192) (in review): Toto 2.0 runs on Apple MPS, where it gave all-NaN forecasts on large series; forecasts now match CPU
+
+    </details>
+
 
 ### Some Tools I Use
 
