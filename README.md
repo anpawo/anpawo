@@ -27,6 +27,7 @@ Little macOS apps made for my own needs (an ⌘Tab switcher, a launcher, an auto
   - [Fleet](https://github.com/anpawo/my-apps/tree/main/fleet): shows every Claude Code session on the machine (done, working, or waiting on you) the moment you go idle; a click brings its terminal tab back
   - [Vibe Code X](https://github.com/anpawo/my-apps/tree/main/vcx): a native window per Claude Code, Codex or Qwen session, running the agent's own CLI; its actions fold into one block and its questions are answered from the input box
   - [mac-guard](https://github.com/anpawo/my-apps/tree/main/mac-guard): watches memory, CPU and hung apps, and pauses the background work about to freeze the Mac until it keeps up again
+  - [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve), with Codex as the model, found faster versions of two hot paths whose output stays byte-identical (not merged yet): Fleet's transcript scan about 200× faster, Vibe Code X's rule recall 23×
 - [Qwen abliteration repair](https://github.com/anpawo/qwen-abliteration-repair) (2026)  
 An abliterated (uncensored) Qwen3.5-9B given its reasoning back: the weights abliteration changed in layers 8-15 copied back from the original, then requantized from f16 with an importance matrix  
 65/74 on a test battery and 68/74 on a held-out set (original model: 57/74), 87.3% on a MATH-500 sample, 0 of 6 harmful prompts refused, in 5.6 GB on a 4 GB GPU  
